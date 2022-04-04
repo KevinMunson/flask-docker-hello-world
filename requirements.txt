@@ -1,0 +1,5 @@
+tables
+Python
+Flask == 2.0.3
+requests
+scikit-learn == 1.0.2
