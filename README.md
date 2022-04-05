@@ -2,8 +2,8 @@
 
 
 This is creating a Flask App docker image that can do simple things.
-Eventually this will be extended to handle having pickled models placed in them and then used to predict when data
-is input
+Eventually this will be extended to handle having pickled models placed
+ in them and then used to predict when data as input
 
 ### a docker compose command
 ```bash
